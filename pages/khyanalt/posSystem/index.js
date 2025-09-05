@@ -1308,7 +1308,7 @@ function ButeegdekhuunBurtgel({ token }) {
           </div>
         </div>
         <div className="mt-2 flex w-full justify-end gap-2 pr-2 dark:bg-gray-900">
-          <div>Дууссан барааг харах</div>
+          <div>Дуусан барааг харах</div>
           <Switch
             checked={dussanBaraagKharakh}
             onChange={(v) => {
